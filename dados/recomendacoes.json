@@ -41,10 +41,10 @@
   },
   {
     "Numero": 6,
-    "Tags": "Info E",
+    "Tags": "Info G",
     "Texto Nosso": "Utilize áudio para todos os eventos do jogo.",
     "Mapeados": "P23 4 + A17 6.3",
-    "Justificativa": "A recomendação trata de como eventos de um jogo devem ser representados.",
+    "Justificativa": "A recomendação é voltada a informações de maneira ampla e generalista.",
     "Texto Original": "Use audio for all game events."
   },
   {
@@ -82,17 +82,17 @@
   {
     "Numero": 11,
     "Tags": "Feedback + Info G + QV",
-    "Texto Nosso": "Providenciar representação gráfica ou textual pode ser útil, assim pessoas com visão poderão jogar juntamente de pessoas com deficiência visual.",
+    "Texto Nosso": "Providenciar representação gráfica ou textual para o áudio pode ser útil, assim pessoas com visão poderão jogar juntamente de pessoas com deficiência visual.",
     "Mapeados": "",
     "Justificativa": "A recomendação é voltada a informações e feedbacks visuais de maneira ampla e generalista. Entretanto, com o objetivo de agregar à experiência do jogo.",
     "Texto Original": "Providing text or graphical representation for the audio can be useful, as sighted players can play together with visually impaired players."
   },
   {
     "Numero": 12,
-    "Tags": "CJ + Controle",
+    "Tags": "CJ + ED",
     "Texto Nosso": "Permita que a pessoa jogadora possa customizar os controles do jogo.",
     "Mapeados": "P23 1.3 + P23 2 + T18 19.1 + C24 19 + C24 31",
-    "Justificativa": "A recomendação foca na customização e configuração dos controles utilizados no jogo.",
+    "Justificativa": "A recomendação foca na customização e configuração das entradas utilizadas no jogo.",
     "Texto Original": "Allow input controls to be customized by the player."
   },
   {
@@ -113,10 +113,10 @@
   },
   {
     "Numero": 15,
-    "Tags": "CJ + Controle + QV",
+    "Tags": "CJ + ED + QV",
     "Texto Nosso": "Providencie um esquema de controle padrão fácil de usar, aprender e alcançar para a pessoa jogadora.",
     "Mapeados": "P23 1.3 + P23 2",
-    "Justificativa": "A recomendação gira em torno de esquemas de controle padrão. Além disso, propõe o uso de um esquema padrão que seja inicialmente acessível para a maioria das pessoas jogadoras, o que poderia facilitar a configuração e ajustes desses controles futuramente.",
+    "Justificativa": "A recomendação gira em torno de esquemas de entrada de dados padrão. Além disso, propõe o uso de um esquema padrão que seja inicialmente acessível para a maioria das pessoas jogadoras, o que poderia facilitar a configuração e ajustes dessas entradas de dados futuramente.",
     "Texto Original": "Provide an easy to use, learn and reach default control scheme for the player."
   },
   {
@@ -146,7 +146,7 @@
   {
     "Numero": 19,
     "Tags": "Menu + QV",
-    "Texto Nosso": "Opções do menu podem ser horizontais e podem explorar panorâmica estéreo.",
+    "Texto Nosso": "Menus de opção podem ser horizontais e podem explorar panorâmica estéreo.",
     "Mapeados": "P23 4 + A17 5",
     "Justificativa": "O objetivo da recomendação é trazer uma funcionalidade aos menus do jogo que aprimore a experiência da pessoa jogadora.",
     "Texto Original": "Option menus may be horizontal and explore stereo panning."
@@ -209,7 +209,7 @@
   },
   {
     "Numero": 27,
-    "Tags": "Info A + Info P",
+    "Tags": "Info G",
     "Texto Nosso": "Evite dar ênfase a sons apenas estéticos e que distraiam ou não ajudem a pessoa jogadora em detrimento de sons mais funcionais.",
     "Mapeados": "T18 29.1",
     "Justificativa": "A recomendação é voltada a informações e feedbacks sonoros de maneira ampla e generalista.",
@@ -220,7 +220,7 @@
     "Tags": "Info G",
     "Texto Nosso": "Utilize sons para descrever a presença e atividade no ambiente.",
     "Mapeados": "T18 29.1 + C24 23",
-    "Justificativa": "????.",
+    "Justificativa": "A recomendação é voltada a informações e feedbacks sonoros de maneira ampla e generalista no ambiente do jogo, entretanto a justificativa original da recomendação não especifica a fonte das atividades do ambiente, portanto podem conter o avatar.",
     "Texto Original": "Use sounds to describe presence and activity on the ambient."
   },
   {
@@ -284,7 +284,7 @@
     "Tags": "Mecânica",
     "Texto Nosso": "Faça com que o uso de objetos seja coerente com seu comportamento esperado.",
     "Mapeados": "P23 8.1 + P23 8.5 + T18 9 + T18 29.1",
-    "Justificativa": "A recomendação trata especificamente do uso de objetos em um jogo para superar seus desafios e atingir os objetivos.",
+    "Justificativa": "A recomendação trata do uso de objetos voltado à interação da pessoa jogadora com o mundo do jogo.",
     "Texto Original": "Object usage should be coherent with the object’s expected behavior."
   },
   {
@@ -305,10 +305,10 @@
   },
   {
     "Numero": 39,
-    "Tags": "Info P + Feedback + Narrativa",
+    "Tags": "Info P + Feedback + Narrativa + Info A",
     "Texto Nosso": "Utilize vozes para caracterizar os personagens. Tente usar vozes únicas para o avatar da pessoa da jogadora.",
     "Mapeados": "P23 3.1 + P23 8.2 + A17 9 + T18 9",
-    "Justificativa": "As vozes caracterizam personagens, o que é referente ao Info P, existem casos que a pessoa jogadora inicia um diálogo portanto feedback se aplica e as vozes podem vir a interferir na composição da narrativa ao depender das características das vozes.",
+    "Justificativa": "As vozes caracterizam personagens jogáveis e que compõem o ambiente, o que é referente ao Info P e Info A, existem casos que a pessoa jogadora inicia um diálogo portanto feedback se aplica e as vozes podem vir a interferir na composição da narrativa ao depender das características das vozes.",
     "Texto Original": "Use voices to characterize characters. Try using a unique voice for the player’s avatar."
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "Numero": 41,
-    "Tags": "Info P. + Narrativa",
+    "Tags": "Info P. + Narrativa + Info A.",
     "Texto Nosso": "Utilize diálogos entre personagens para providenciar informações para a pessoa jogadora.",
     "Mapeados": "P23 3.1 + A17 9 + T18 9",
     "Justificativa": "Os diálogos são informações trocadas entre personagens e esses diálogos podem interferir na composição da narrativa a depender do seu conteúdo.",
@@ -329,10 +329,10 @@
   },
   {
     "Numero": 42,
-    "Tags": "Feedback",
+    "Tags": "Feedback + Info P.",
     "Texto Nosso": "Utilize sons para a atividade atual do personagem.",
     "Mapeados": "P23 3.1 + A17 9 + T18 9 + C24 1",
-    "Justificativa": "P23 3.1 + A17 9 + T18 9 + C24 1",
+    "Justificativa": "O personagem age e o som é um feedback das atividades do personagem. As ações do personagem não necessariamente serão iniciadas por ações da pessoa jogadora.",
     "Texto Original": "Play sounds for the current character's activities."
   },
   {
@@ -346,14 +346,14 @@
   {
     "Numero": 44,
     "Tags": "Desafio + Mecânica",
-    "Texto Nosso": "Providencie tempo suficiente para a reação e realização de tarefas dependentes de tempo no jogo",
+    "Texto Nosso": "Providencie tempo suficiente para a reação e realização de tarefas dependentes de tempo no jogo.",
     "Mapeados": "",
-    "Justificativa": "O tempo pode ser um desafio a se superar mas também pode ser referente as mecânicas do jogo",
+    "Justificativa": "O tempo pode ser um desafio a se superar mas também pode ser referente as mecânicas do jogo.",
     "Texto Original": "Provide enough time to gameplay tasks with time requirements."
   },
   {
     "Numero": 45,
-    "Tags": "TA + Controle + Mecânica",
+    "Tags": "TA + ED + Mecânica",
     "Texto Nosso": "Quando aplicável, o jogo deve permitir diferentes sistemas de reconhecimento de voz e volume, através de palavras individuais de um vocabulário pequeno",
     "Mapeados": "",
     "Justificativa": "Os sistemas de reconhecimento de voz podem ser considerados TA e podem ser utilizados para dar entradas no jogo. As mecânicas do jogo podem ser afetadas por esse sistema de entrada.",
@@ -393,7 +393,7 @@
   },
   {
     "Numero": 50,
-    "Tags": "Controle",
+    "Tags": "ED",
     "Texto Nosso": "Garanta que pessoas jogadoras possam usar gestos simples para acessar a maioria das mensagens de texto que devem ser lidas pelo leitor de telas.",
     "Mapeados": "P23 1.2 + A 17 7 + T18 18 + C24 27",
     "Justificativa": "Os gestos citados podem ser interpretados como uma forma de entrada.",
@@ -409,7 +409,7 @@
   },
   {
     "Numero": 52,
-    "Tags": "Info A + info P + Controle",
+    "Tags": "Info A + info P + ED",
     "Texto Nosso": "Providencie um meio de ajudar as pessoas jogadoras a explorar o ambiente virtual do jogo acessando conteúdo e elementos interativos com fácil orientação, pontos cardeais e/ou graus, para determinar onde estão no jogo.",
     "Mapeados": "C24 13",
     "Justificativa": "O meio de ajuda pode ser através de ajustes realizados na entrada de dados. As informações auxiliares citadas podem ser referentes ao avatar ou ao ambiente.",
@@ -417,7 +417,7 @@
   },
   {
     "Numero": 53,
-    "Tags": "Controle",
+    "Tags": "ED",
     "Texto Nosso": "Utilize padrões de navegação para fácil navegação.",
     "Mapeados": "C24 22",
     "Justificativa": "Os padrões de navegação podem ser usados para melhor uso das entradas da pessoa.",
@@ -428,20 +428,20 @@
     "Tags": "Info G",
     "Texto Nosso": "Permita que a pessoa jogadora visualize sumários de seu progresso durante fases diferentes do jogo incluindo pontuação, vidas restantes e desafios.",
     "Mapeados": "",
-    "Justificativa": "",
+    "Justificativa": "Os sumários são uma fonte de informação a respeito do jogo e seu estado. Não está descrito todos os tipos de informação contida nesses sumários, portanto optou-se por caracterizar como Info G.",
     "Texto Original": "Allow the player to visualize their progress summaries during the different phases of a game, such as punctuation, lives and challenges."
   },
   {
     "Numero": 55,
-    "Tags": "Controle + Feedback",
+    "Tags": "ED + Feedback",
     "Texto Nosso": "Inclua interfaces hápticas como feedback por vibração e touch.",
     "Mapeados": "C24 24",
-    "Justificativa": "As interfaces hápticas podem servir tanto para entrada (controle) quanto saída (Feedback).",
+    "Justificativa": "As interfaces hápticas podem servir tanto para entrada quanto para saída (Feedback).",
     "Texto Original": "Include haptic interfaces features such as vibration and touch features."
   },
   {
     "Numero": 56,
-    "Tags": "Controle + TA",
+    "Tags": "ED + TA",
     "Texto Nosso": "Permita o uso de diversos meios de entrada.",
     "Mapeados": "C24 25",
     "Justificativa": "Os meios de entrada diversos implicam em mudanças no controle do jogo. TAs podem ser um dos meios de entrada permitidos.",
@@ -457,10 +457,10 @@
   },
   {
     "Numero": 58,
-    "Tags": "Feedback + Mecânica",
-    "Texto Nosso": "Include mechanisms to reduce the occurrence of errors, such as disabling menu items that are not available to use, close dialog dialog after user action, and so on.",
+    "Tags": "QV",
+    "Texto Nosso": "Inclua mecanismos de correção de erro, como permitir o retorno a um ponto seguro do jogo, providenciando mensagens claramente indicando o erro.",
     "Mapeados": "",
-    "Justificativa": "",
+    "Justificativa": "Diminuir a ocorrência de erros implica em uma experiência melhor para a pessoa jogadora.",
     "Texto Original": "Include mechanisms that provide error correction, such as allowing the player to return to a safe point in the game, providing messages clearly indicating the reason for the error, and so on."
   },
   {
@@ -473,10 +473,10 @@
   },
   {
     "Numero": 60,
-    "Tags": "Controle + menu + QV",
+    "Tags": "ED + menu + QV",
     "Texto Nosso": "Providencie teclas de atalho para interagir com opções do jogo e para acessar informações como salvar, sair, pausar etc.",
     "Mapeados": "P23 4 + A17 5 + G13 25(4.6) + C24 28",
-    "Justificativa": "As teclas de atalho são uma forma de entrada da pessoa usuária, as opções do jogo poderão estar dispostas em menus e a existência dessas teclas de atalho melhoram a experiência do usuário.",
+    "Justificativa": "As teclas de atalho são uma forma de entrada da pessoa usuária, as opções do jogo poderão estar dispostas em menus e a existência dessas teclas de atalho melhoram a experiência da pessoa usuária.",
     "Texto Original": "Provide shortcut keys to interact in the game options and to access information, such as to save, exit, pause, access help, and so on"
   },
   {
@@ -498,7 +498,7 @@
   {
     "Numero": 63,
     "Tags": "CJ",
-    "Texto Nosso": "Providencie opções gráficas como por exemplo: desabilitar gráficos 3D, permite customizar as cores, brilho e contraste, tamanho e fontes de texto.",
+    "Texto Nosso": "Providencie opções gráficas como por exemplo: desabilitar gráficos 3D, permitir customizar as cores, brilho e contraste, tamanho e fontes de texto.",
     "Mapeados": "",
     "Justificativa": "As opções gráficas são uma configuração do jogo.",
     "Texto Original": "Provide graphic settings options, such as disable 3D graphics, enable color customization, brightness, contrast and text and font size."
@@ -506,7 +506,7 @@
   {
     "Numero": 64,
     "Tags": "Info A",
-    "Texto Nosso": "Marque inimigos com sons específicos como por exemplo, diferenciar força de inimigo por sons distintos.",
+    "Texto Nosso": "Marque inimigos com sons específicos como, por exemplo, diferenciar força de inimigo por sons distintos.",
     "Mapeados": "",
     "Justificativa": "Os inimigos são uma parte do ambiente, portanto informações dos inimigos é informação do ambiente.",
     "Texto Original": "Enemy marking: recommends the application of “different sounds for different enemy strengths. As larger enemies approach, the sound could get progressively louder or more fierce to alert the visually impaired gamer.”"
@@ -522,7 +522,7 @@
   {
     "Numero": 66,
     "Tags": "Mecânica + desafio + QV",
-    "Texto Nosso": "Inclua modos de ajuda que facilitem a interação da pessoa jogadora com o jogo, como auxílio de mira e acesso a área secretas.",
+    "Texto Nosso": "Inclua modos de ajuda que facilitem a interação da pessoa jogadora com o jogo, como auxílio de mira e acesso a áreas secretas.",
     "Mapeados": "",
     "Justificativa": "Os modos de ajuda vão influenciar as mecânicas do jogo e permitem o jogador escolher o nível de seu desafio. Esses modos de ajuda podem melhorar a experiência do usuário mais casual.",
     "Texto Original": "Auto aim (Auxiliary Mode): proposes that the game should “include auxiliary modes, with shortcuts to game secrets (“auto-aim”, “cheat”), such as direct access to secret areas and power steering.”"
@@ -537,7 +537,7 @@
   },
   {
     "Numero": 68,
-    "Tags": "Controle",
+    "Tags": "ED",
     "Texto Nosso": "Os elementos interativos/controles virtuais devem ser grandes e bem espaçados.",
     "Mapeados": "",
     "Justificativa": "Os elementos interativos/controles virtuais são meios de entrada.",
@@ -556,7 +556,7 @@
     "Tags": "CJ + QV",
     "Texto Nosso": "Inclua configuração padrão para diversos grupos como pessoas com deficiência visual, motora ou auditiva.",
     "Mapeados": "",
-    "Justificativa": "As configurações padrão são uma configuração do jogo. A existência de configurações padrão para diferentes grupos facilita a configuração do jogo para atender as necessidades de cada pessoa jogadora.",
+    "Justificativa": "As configurações padrão são uma configuração do jogo. A existência de configurações padrão para diferentes grupos facilita a configuração do jogo para atender às necessidades de cada pessoa jogadora.",
     "Texto Original": "Presetting recommended features per group: asks to preset certain “game features recommended for people with visual, hearing, and motor disabilities. In this way, they act as initial and optional sets presented by the game.”"
   }
 ]
